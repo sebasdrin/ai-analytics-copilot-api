@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment files
+.env
+.env.*
+
+# Local/private notes
+docs/learning_notes.md
+docs/interview_notes.md
+docs/project_brief.md
+AI Analytics Copilot API.md
+AI Analytics Copilot API.txt
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
